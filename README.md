@@ -25,14 +25,14 @@ Users should be able to:
 - Switch between light and dark themes
 - **Bonus**: Have the correct color scheme chosen for them based on their computer preferences. _Hint_: Research `prefers-color-scheme` in CSS.
 
-<!-- ### Screenshot
+### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution URL: [Mobile-first solution using Vue and TailwindCSS](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-vue-and-tailwindcss-lH_W6pqWep)
+- Live Site URL: [Frontend Mentor | GitHub user search app](https://github.com/Azganoth/github-user-search-app)
 
 ## My process
 
