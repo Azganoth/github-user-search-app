@@ -4,3 +4,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html {
+  @apply text-[13px] leading-[25px] tablet:text-[15px];
+}
+
+body {
+  @apply bg-ghost-white text-blue dark:bg-dark-gunmetal dark:text-white;
+}
+
+#app {
+  @apply px-[24px] pb-[79px] pt-[30px] tablet:pb-[234px] tablet:pl-[97px] tablet:pr-[98px] tablet:pt-[139px] desktop:px-[355px] desktop:pb-[168px] desktop:pt-[143px];
+}
