@@ -1,20 +1,19 @@
-# Frontend Mentor - GitHub user search app solution
+# Frontend Mentor Challenge: GitHub User Search
 
-This is a solution to the [GitHub user search app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6).
+This is a solution for the [GitHub User Search app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/github-user-search-app-Q09YOgaH6).
 
 ## Table of contents
 
-- [Frontend Mentor - GitHub user search app solution](#frontend-mentor---github-user-search-app-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-  - [Author](#author)
+- [Overview](#overview)
+- [Development](#development)
+  - [Stack](#stack)
+  - [Workflow and Automation](#workflow-and-automation)
+- [Showcase](#showcase)
+  - [Links](#links)
+  - [Screenshots](#screenshots)
+- [Author](#author)
 
-## Overview
-
-### The challenge
+## <a name="overview">Overview 📋</a>
 
 Users should be able to:
 
@@ -25,26 +24,38 @@ Users should be able to:
 - Switch between light and dark themes
 - **Bonus**: Have the correct color scheme chosen for them based on their computer preferences. _Hint_: Research `prefers-color-scheme` in CSS.
 
-### Screenshot
+## <a name="development">Development 🛠️</a>
 
-![](./screenshot.png)
+### Stack
+
+- **HTML5**
+- **CSS3**
+- **TypeScript**
+- **PostCSS**
+- **TailwindCSS**
+- **Vue**
+- **Vite**
+
+### Tools and Workflow
+
+- **GitHub Actions**
+- **GitHub Pages**
+- **Prettier**
+
+## <a name="showcase">Showcase 🖼️</a>
 
 ### Links
 
 - Solution URL: [Mobile-first solution using Vue and TailwindCSS](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-vue-and-tailwindcss-lH_W6pqWep)
-- Live Site URL: [Frontend Mentor | GitHub user search app](https://github.com/Azganoth/github-user-search-app)
+- Live Site URL: [GitHub User Search](https://azganoth.github.io/github-user-search-app/)
 
-## My process
+### Screenshots
 
-### Built with
+#### App
 
-- Semantic HTML5 markup
-- Mobile-first workflow
-- [Vue](https://vuejs.org/) - JavaScript Framework
-- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
-- [Vite](https://vitejs.dev/) - Frontend Tooling
+![](/screenshot.png)
 
-## Author
+## <a name="author">Author ✍️</a>
 
 - Website - [Ademir José Ferreira Júnior](https://github.com/Azganoth)
 - Frontend Mentor - [@Azganoth](https://www.frontendmentor.io/profile/Azganoth)
